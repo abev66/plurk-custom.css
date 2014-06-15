@@ -220,7 +220,7 @@
 	color: #EEFFEE !important;
 	background-color: transparent;
 }
-._lc_ .timeline textarea#input_small {
+._lc_ #input_small {
 	height: 1.7em;
 	font-size: 1.2em;
 }
