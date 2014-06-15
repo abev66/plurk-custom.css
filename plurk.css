@@ -72,6 +72,7 @@
 
 ._lc_ #plurk-dashboard:hover {
 	left: -185px;
+	max-height: 460px;
 }
 
 ._lc_ #plurk-dashboard, ._lc_ #pane_plurk {
