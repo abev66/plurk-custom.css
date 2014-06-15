@@ -1,6 +1,7 @@
 ._lc_ {
-	background-image: url(http://wallpaperia.com/wp-content/uploads/2013/12/Beautiful-Green-Forest.jpg);
-	overflow: hidden;
+	background-image: url('http://wallpaperia.com/wp-content/uploads/2013/12/Beautiful-Green-Forest.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 ._lc_ #timeline_holder {
 	background-color: rgba(200,255,200,0.38);
