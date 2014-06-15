@@ -221,6 +221,6 @@
 	background-color: transparent;
 }
 ._lc_ #input_small {
-	height: 1.7em;
-	font-size: 1.2em;
+	height: 1.7em !important;
+	font-size: 1.2em !important;
 }
