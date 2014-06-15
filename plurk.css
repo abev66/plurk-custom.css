@@ -1,0 +1,240 @@
+._lc_ {
+	background-image: url(http://wallpaperia.com/wp-content/uploads/2013/12/Beautiful-Green-Forest.jpg);
+	overflow: hidden;
+}
+._lc_ #timeline_holder {
+	background-color: rgba(200,255,200,0.38);
+	background-image: none;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.9);
+	background-image: none;
+}
+._lc_ #timeline_cnt {
+	height: 450px !important;
+	top: 100px !important;
+}
+._lc_ .div_inner {
+	height: 530px !important;
+}
+._lc_ .small_timeline, ._lc_ .small_timeline #timeline_holder {
+	height: 550px !important;
+}
+._lc_ #timeline_bg .day_start {
+	height: 0 !important;
+	overflow: hidden !important;
+	width: 0 !important;
+}
+._lc_ #timeline_holder, ._lc_ #timeline_bg {
+	height: 550px !important;
+}
+._lc_ #bottom_line {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid #003000 !important;
+	border-top: 1px solid #888888 !important;
+	top: 530px !important;
+	z-index: 100;
+}
+._lc_ .evening, ._lc_ .night, ._lc_ .day, ._lc_ .morning {
+	-moz-border-bottom-colors: none !important;
+	-moz-border-image: none !important;
+	-moz-border-left-colors: none !important;
+	-moz-border-right-colors: none !important;
+	-moz-border-top-colors: none !important;
+	background: none repeat scroll 0 0 #003000;
+	border-color: #888888 #888888 -moz-use-text-color !important;
+	border-style: solid solid none !important;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-width: 1px 1px medium !important;
+	box-shadow: -1px -2px 3px rgba(0, 0, 0, 0.8);
+	top: 553px !important;
+}
+._lc_ #updater, ._lc_ #music_player {
+	background: none repeat scroll 0 0 rgba(0, 20, 0, 0.75);
+	border: 1px solid #222222;
+	box-shadow: 0 0 10px rgba(0, 10, 0, 0.75);
+	top: 15px !important;
+}
+._lc_ #updater *, ._lc_ #music_player * {
+	color: white !important;
+}
+._lc_ #dashboard_holder {
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	top: 570px;
+	left: 2em;
+	z-index: 1000;
+	transition: all 500ms ease-out;
+}
+._lc_ #dashboard_holder:hover {
+	position: absolute;
+	top: 20px;
+	padding-top: 60px;
+	left: 2em;
+	z-index: 1000;
+}
+._lc_ #plurk-dashboard, ._lc_ #pane_plurk {
+	transition: all 500ms ease-out;
+	background-color: rgba(24,70,21,0.3);
+}
+._lc_ #plurk-dashboard:hover, ._lc_ #pane_plurk:hover {
+	transition: all 300ms ease;
+	background-color: rgba(24,70,21,0.85);
+}
+._lc_ #footer {
+	width: 400px;
+	text-shadow: 2px 2px 5px #777;
+}
+._lc_ footer {
+	text-algin: right;
+	opacity: 0.3;
+	transition: opacity 300ms ease;
+}
+._lc_ footer:hover {
+	opacity: 0.9;
+	transition: opacity 300ms ease;
+}
+._lc_ plurk_ads {
+	max-height:0px !important;
+	max-width:0px !important;
+}
+._lc_ #filter_tab a.off_tab {
+	-moz-border-bottom-colors: none !important;
+	-moz-border-image: none !important;
+	-moz-border-left-colors: none !important;
+	-moz-border-right-colors: none !important;
+	-moz-border-top-colors: none !important;
+	background: none repeat scroll 0 0 rgba(0,48,0,0.45);
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-color: -moz-use-text-color #003000 #003000 !important;
+	border-right: 1px solid #003000 !important;
+	border-style: none solid solid !important;
+	border-width: medium 1px 1px !important;
+	box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.8);
+	color: white !important;
+	font-weight: bold;
+	text-shadow: 0 0 3px black;
+}
+._lc_ #filter_tab a.off_tab:hover {
+	-moz-border-bottom-colors: none !important;
+	-moz-border-image: none !important;
+	-moz-border-left-colors: none !important;
+	-moz-border-right-colors: none !important;
+	-moz-border-top-colors: none !important;
+	background: none repeat scroll 0 0 rgba(0,120,0,0.7);
+	border-color: -moz-use-text-color #008000 #008000 !important;
+	border-right: 1px solid #008000 !important;
+	border-style: none solid solid !important;
+	border-width: medium 1px 1px !important;
+	color: white !important;
+	font-weight: bold;
+	text-decoration: none;
+}
+._lc_ #filter_tab a.filter_selected {
+	-moz-border-bottom-colors: none !important;
+	-moz-border-image: none !important;
+	-moz-border-left-colors: none !important;
+	-moz-border-right-colors: none !important;
+	-moz-border-top-colors: none !important;
+	background: none repeat scroll 0 0 white;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background: none repeat scroll 0 0 rgba(225,225,225,0.5);
+	border-style: none solid solid !important;
+	border-width: medium 1px 1px !important;
+	box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.8);
+	color: black !important;
+	font-weight: bold;
+	text-shadow: 0 0 3px #888888;
+}
+._lc_ #filter_tab a.filter_selected:hover {
+	background-color: rgba(225,225,225,1);
+}
+._lc_ .plurk .plurk_cnt {
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.75);
+	opacity: 0.8;
+	width: 110%;
+	z-index: 825;
+}
+._lc_ .plurk_cnt:hover {
+	box-shadow: 0 0 9px rgba(0, 0, 0, 0.8);
+	opacity: 1;
+}
+._lc_ .plurk_cnt .text_holder {
+	font-size: 110% !important;
+}
+._lc_ .plurk_cnt .name {
+	font-size: 1.2em;
+	position: absolute !important;
+	text-shadow: 0 0 5px white;
+	top: -22px;
+	z-index: 855;
+}
+._lc_ .qualifier {
+	margin-left: 7px;
+	opacity: 0.8;
+}
+._lc_ .list .plurk_cnt .name {
+	position: static !important;
+}
+._lc_ .p_img {
+	left: 5px;
+	position: relative !important;
+	top: -5px;
+	z-index: 850;
+}
+._lc_ .p_img img {
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+	height: 22px !important;
+	width: 22px !important;
+}
+._lc_ .new .plurk_cnt {
+	border: 1px solid #888888 !important;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+	opacity: 1;
+}
+._lc_ .plurk_box {
+	box-shadow: 4px 5px 7px rgba(0, 0, 0, 0.5);
+}
+._lc_ .plurk_box .caption {
+	background-color: #CCDDCC !important;
+	color: white !important;
+	font-weight: bold;
+	text-shadow: 0 0 3px black;
+}
+._lc_ .plurk_box .plurk_cnt {
+	box-shadow: none;
+	opacity: 1;
+}
+._lc_ .plurk {
+	box-shadow: none;
+}
+._lc_ .dots .inner {
+	background: none repeat scroll 0 0 transparent;
+	border: medium none;
+	color: black !important;
+}
+._lc_ .response_count {
+	background: none repeat scroll 0 0 transparent !important;
+	border: medium none !important;
+	color: #EEFFEE !important;
+	font-size: 1.8em;
+	left: 10px;
+	position: relative !important;
+	text-shadow: 0 0 5px black;
+	top: -10px;
+}
+._lc_ .new .response_count {
+	color: #EE0000 !important;
+	text-shadow: 0 0 5px white;
+}
+._lc_ .unread_generic {
+	color: #EEFFEE !important;
+	background-color: transparent;
+}
+._lc_ .timeline textarea#input_small {
+	height: 1.7em;
+font-size: 1.2em}
