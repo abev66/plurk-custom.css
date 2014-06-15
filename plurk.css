@@ -34,21 +34,7 @@
 	top: 530px !important;
 	z-index: 100;
 }
-._lc_ .evening, ._lc_ .night, ._lc_ .day, ._lc_ .morning {
-	-moz-border-bottom-colors: none !important;
-	-moz-border-image: none !important;
-	-moz-border-left-colors: none !important;
-	-moz-border-right-colors: none !important;
-	-moz-border-top-colors: none !important;
-	background: none repeat scroll 0 0 #003000;
-	border-color: #888888 #888888 -moz-use-text-color !important;
-	border-style: solid solid none !important;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	border-width: 1px 1px medium !important;
-	box-shadow: -1px -2px 3px rgba(0, 0, 0, 0.8);
-	top: 553px !important;
-}
+
 ._lc_ #updater, ._lc_ #music_player {
 	background: none repeat scroll 0 0 rgba(0, 20, 0, 0.75);
 	border: 1px solid #222222;
@@ -96,15 +82,9 @@
 	max-width:0px !important;
 }
 ._lc_ #filter_tab a.off_tab {
-	-moz-border-bottom-colors: none !important;
-	-moz-border-image: none !important;
-	-moz-border-left-colors: none !important;
-	-moz-border-right-colors: none !important;
-	-moz-border-top-colors: none !important;
 	background: none repeat scroll 0 0 rgba(0,48,0,0.45);
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
-	border-color: -moz-use-text-color #003000 #003000 !important;
 	border-right: 1px solid #003000 !important;
 	border-style: none solid solid !important;
 	border-width: medium 1px 1px !important;
@@ -114,13 +94,7 @@
 	text-shadow: 0 0 3px black;
 }
 ._lc_ #filter_tab a.off_tab:hover {
-	-moz-border-bottom-colors: none !important;
-	-moz-border-image: none !important;
-	-moz-border-left-colors: none !important;
-	-moz-border-right-colors: none !important;
-	-moz-border-top-colors: none !important;
 	background: none repeat scroll 0 0 rgba(0,120,0,0.7);
-	border-color: -moz-use-text-color #008000 #008000 !important;
 	border-right: 1px solid #008000 !important;
 	border-style: none solid solid !important;
 	border-width: medium 1px 1px !important;
@@ -129,11 +103,6 @@
 	text-decoration: none;
 }
 ._lc_ #filter_tab a.filter_selected {
-	-moz-border-bottom-colors: none !important;
-	-moz-border-image: none !important;
-	-moz-border-left-colors: none !important;
-	-moz-border-right-colors: none !important;
-	-moz-border-top-colors: none !important;
 	background: none repeat scroll 0 0 white;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
