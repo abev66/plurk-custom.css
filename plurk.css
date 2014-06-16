@@ -255,3 +255,6 @@
 ._lc_ #time_show span { 
 	color: white !important; 
 }
+._lc_ .bday {
+	z-index: 1000;
+}
