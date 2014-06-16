@@ -165,23 +165,28 @@
 	z-index: 855;
 }
 ._lc_ .qualifier {
-	margin-left: 7px;
+	padding: 5px;
+	font-size: 15px;
 	opacity: 0.8;
+	border: none;
+}
+._lc_ .q_replurks {
+	padding-right: 1em;
 }
 ._lc_ .list .plurk_cnt .name {
 	position: static !important;
 }
 ._lc_ .p_img {
-	left: 5px;
+	left: 0;
 	position: relative !important;
-	top: -5px;
-	z-index: 850;
+	top: -10px;
+	z-index: 1000;
 }
 ._lc_ .p_img img {
-	border-radius: 5px 5px 5px 5px;
+	border-radius: 14px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
-	height: 22px !important;
-	width: 22px !important;
+	height: 28px !important;
+	width: 28px !important;
 }
 ._lc_ .new .plurk_cnt {
 	border: 1px solid #888888 !important;
