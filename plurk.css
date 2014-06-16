@@ -147,7 +147,7 @@
 	opacity: 0.8;
 	width: 110%;
 	z-index: 800;
-	transition: all 250ms ease;
+	transition: opacity 300ms ease;
 }
 ._lc_ .plurk_cnt:hover {
 	box-shadow: 0 0 9px rgba(0, 0, 0, 0.8);
