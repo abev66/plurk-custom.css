@@ -258,3 +258,10 @@
 ._lc_ .bday {
 	z-index: 1000;
 }
+._lc_ #dynamic_logo img {
+	width: 0; 
+	height: 0;
+	padding: 0;
+	margin: 0;
+	overflow: hidden; 
+}
