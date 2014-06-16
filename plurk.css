@@ -220,12 +220,15 @@
 	font-size: 1.8em;
 	left: 10px;
 	position: relative !important;
-	text-shadow: 0 0 5px black;
+	text-shadow: 0 0 7px black;
 	top: -10px;
+	opacity: 0.7;
 }
 ._lc_ .new .response_count {
-	color: #EE0000 !important;
-	text-shadow: 0 0 5px white;
+	font-size: 2.2em;
+	color: #FFFFBB !important;
+	text-shadow: 0 0 10px lime;
+	opacity: 1 !important;
 }
 ._lc_ .unread_generic {
 	color: #EEFFEE !important;
