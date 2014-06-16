@@ -2,6 +2,11 @@
 	background-image: url('http://3.bp.blogspot.com/-wO9ve2ySrNY/U53CmVaO-0I/AAAAAAAAcHY/XGAfSJNSeEA/s1600/Beautiful-Green-Forest.jpg');
 	background-size: 100%;
 	background-repeat: repeat-y;
+	position: absolute !important; 
+	top: 40px !important;
+	left: 0 !important;
+	height: inherit !important;
+	margin: 0 !important;
 }
 ._lc_ #timeline_holder {
 	background-color: rgba(200,255,200,0.38);
