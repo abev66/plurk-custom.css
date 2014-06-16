@@ -66,7 +66,7 @@
 	box-shadow: 3px 3px 20px #777;
 }
 ._lc_ #pane_plurk:hover {
-	left: -185px;
+	left: 0px;
 }
 
 ._lc_ #plurk-dashboard {
@@ -79,7 +79,7 @@
 }
 
 ._lc_ #plurk-dashboard:hover {
-	left: -185px;
+	left: 0px;
 	max-height: 460px;
 }
 
