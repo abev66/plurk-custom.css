@@ -119,6 +119,7 @@
 	color: white !important;
 	font-weight: bold;
 	text-shadow: 0 0 3px black;
+	transition: all 250ms ease;
 }
 ._lc_ #filter_tab a.off_tab:hover {
 	background: none repeat scroll 0 0 rgba(0,120,0,0.7);
@@ -140,6 +141,7 @@
 	color: black !important;
 	font-weight: bold;
 	text-shadow: 0 0 3px #888888;
+	transition: all 250ms ease;
 }
 ._lc_ #filter_tab a.filter_selected:hover {
 	background-color: rgba(225,225,225,1);
