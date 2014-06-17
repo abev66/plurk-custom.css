@@ -171,6 +171,10 @@
 	font-size: 15px;
 	opacity: 0.8;
 	border: none;
+	transition: opacity 250ms ease;
+}
+._lc_ .qualifier:hover {
+	opacity: 1;
 }
 ._lc_ .q_replurks {
 	padding-right: 1em;
